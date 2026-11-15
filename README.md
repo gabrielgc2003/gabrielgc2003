@@ -24,6 +24,7 @@
 | Project | What it shows | Stack |
 |---|---|---|
 | [**WhatsApp AI Agent**](https://github.com/gabrielgc2003/agente-ia-atendimento-whatsapp) | AI receptionist for clinics: async message pipeline, conversation memory, multimodal input (audio/image), scheduling actions | Java 21 · Spring Boot 4 · RabbitMQ · Redis · PostgreSQL · OpenAI |
+| [**RAG Knowledge API**](https://github.com/gabrielgc2003/rag-knowledge-api) | Question answering over your documents with source citations, similarity threshold and refusal before generation | Spring Boot 4 · Spring AI · pgvector · Ollama / OpenAI |
 | [**Emília**](https://github.com/gabrielgc2003/ggctech-emilia) | Emotional follow-up assistant API: consent flow, narratives, summaries and per-account prompt configuration | Spring Boot · JWT · Flyway · PostgreSQL |
 | [**Virtual Secretary**](https://github.com/gabrielgc2003/minha-secretaria-virtual) | Multi-tenant scheduling assistant: LLM intent parsing + state-machine conversation flow | Spring Boot · Grok API · n8n · PostgreSQL |
 | [**Java Deep Dive**](https://github.com/gabrielgc2003/java-deep-dive) | Advanced Java concepts explored with focused examples | Java |
