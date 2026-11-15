@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://x.com/gabri_garcia01"><img src="https://img.shields.io/badge/X-@gabri__garcia01-000?logo=x&logoColor=white" alt="X"></a>
-  <!-- TODO: LinkedIn badge -->
+  <a href="https://www.linkedin.com/in/gabrielgc2003"><img src="https://img.shields.io/badge/LinkedIn-gabrielgc2003-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Toledo,%20PR-Brazil-009739" alt="Location">
 </p>
 
